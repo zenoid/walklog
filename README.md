@@ -1,7 +1,7 @@
 Walklog
 ========
 
-How far have I walked these days?
+How far have I walked lately?
 Fitbit is counting my steps: calling its API, I'm grabbing and storing the distance data for future use.
 
 
